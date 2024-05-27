@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Barnie1
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning CI/CD processes, Git, Kubernetes and so on
-- 💞️ I’m looking to collaborate on DevOps
-- 📫 How to reach me on olusoji.oyebode@gmail.com
-
-<!---
-Barnie1/Barnie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Barnabas - a data analyst with passion for transforming complex datasets into actionable insights. 
+My repositories showcase a blend of robust data analysis and visualization projects designed to enhance data understanding and drive informed decision-making by turning raw data into valuable insights.
+My work empowers businesses to make data-driven decisions and streamline their operations. 
+Explore my projects to see how I leverage cutting-edge technologies and methodologies to unlock the full potential of data.
